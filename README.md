@@ -5,7 +5,7 @@ This repository contains jupyter notebooks for the implementation of physics-inf
 The PINNs are implemented in Python using the PyTorch package.
 
 Use the following to install the required packages:
-`pip install -r requirements. txt`
+`pip install -r requirements.txt`
 
 ## Current notebooks
 **Cylinder:** 
