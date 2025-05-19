@@ -1,2 +1,4 @@
 pyPINN_venv/
+venv/
 .ipynb_checkpoints
+*.pth
